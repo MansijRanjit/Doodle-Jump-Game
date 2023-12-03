@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+canvas{
+    /* width: 360px;
+    height: 576px; */
+    border: 1px solid black;
+    background-image: url("assets/images/background.png");
+}
